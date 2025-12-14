@@ -111,7 +111,7 @@ with st.sidebar:
     st.subheader("👥 Group Members")
     st.text("1. Regino Z. Balogo Jr.")
     st.text("2. Rhazel Jay V. Gumacal")
-    st.text("3. [Christian Angelo R. Panique")
+    st.text("3. Christian Angelo R. Panique")
 
 # --- MAIN PAGE ---
 st.title("🌟 Golden Section Search Calculator")
